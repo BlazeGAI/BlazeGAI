@@ -1,6 +1,6 @@
-## Tiffin University School of Education and Extended Learning: Generative AI Research and Development Team
+## Tiffin University Center for Online and Extended Learning: Generative AI Research and Development Team
 
-Welcome to the official GitHub repository for Tiffin University's School of Education and Extended Learning Generative AI Research and Development Team. Our mission is to pioneer innovative approaches that integrate generative AI into educational settings, enhancing teaching and learning through the application of the latest pedagogical methods combined with cutting-edge AI technologies.
+Welcome to the official GitHub repository for Tiffin University's Center for Online and Extended Learning Generative AI Research and Development Team. Our mission is to pioneer innovative approaches that integrate generative AI into educational settings, enhancing teaching and learning through the application of the latest pedagogical methods combined with cutting-edge AI technologies.
 
 About Us
 Our team is dedicated to exploring and developing creative solutions that leverage generative AI to transform the educational experience. We believe that by combining the strengths of AI with proven teaching practices, we can create more dynamic, engaging, and personalized learning environments for students.
